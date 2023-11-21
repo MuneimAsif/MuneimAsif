@@ -1,4 +1,3 @@
-<p align="center"> <img src="" alt="muneimasif" /> </p>
 
 <h1 align="center">Hi 👋, I'm Muneim Asif.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
