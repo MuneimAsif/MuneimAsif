@@ -1,3 +1,5 @@
+<img width="50%" source = "https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?size=626&ext=jpg&ga=GA1.1.1490038001.1698158119&semt=ais" />
+
 <h1 align="center">Hi 👋, I'm Muneim Asif.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
