@@ -1,8 +1,5 @@
-<img width="50%" source = "https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?size=626&ext=jpg&ga=GA1.1.1490038001.1698158119&semt=ais" />
-
 <h1 align="center">Hi 👋, I'm Muneim Asif.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneimasif&label=Profile%20views&color=0e75b6&style=flat" alt="muneimasif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneimasif" alt="muneimasif" /></a> </p>
