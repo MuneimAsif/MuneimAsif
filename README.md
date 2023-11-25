@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my own projects to become an expert **App Developer**
 
-- 🌱 I’m currently learning **React Native, Next Js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuneimAsif](https://github.com/MuneimAsif)
 
