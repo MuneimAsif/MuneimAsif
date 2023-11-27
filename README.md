@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, Mohammad Muneim Asif here.</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A devoted Frontend Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneimasif&label=Profile%20views&color=0e75b6&style=flat" alt="muneimasif" /> </p>
 
 - 🔭 I’m currently working on my own projects to become an expert **App Developer**
