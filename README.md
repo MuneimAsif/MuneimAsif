@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuneimAsif](https://github.com/MuneimAsif)
 
-- 💬 Ask me about **HTML,CSS,JS,React**
+- 💬 Ask me about **JS,React**
 
 - 📫 How to reach me **muneimasif2004@gmail.com**
 
