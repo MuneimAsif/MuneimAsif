@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/muneim asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muneim asif" height="30" width="40" /></a>
-</p><a href="https://www.upwork.com/freelancers/~01003fe3fb3118b91c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="muneim asif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
