@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuneimAsif](https://github.com/MuneimAsif)
+- 👨‍💻 All of my projects are available at (https://github.com/MuneimAsif)
 
 - 💬 Ask me about **JS,React**
 
