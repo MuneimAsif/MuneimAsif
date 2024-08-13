@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on https://awardedlazarev.netlify.app
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuneimAsif](https://github.com/MuneimAsif)
 
